@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pokedexandroid.iml" filepath="$PROJECT_DIR$/.idea/modules/pokedexandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pokedex_Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Pokedex_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pokedex_Android.app.unitTest.iml" />
     </modules>
   </component>
 </project>
